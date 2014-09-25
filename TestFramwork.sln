@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFramwork", "TestFramwork\TestFramwork.csproj", "{315CA9A8-DD29-4B0F-914C-AE02077B26FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{971FE5F6-DCC9-4D51-928A-85E0C7D345FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315CA9A8-DD29-4B0F-914C-AE02077B26FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315CA9A8-DD29-4B0F-914C-AE02077B26FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315CA9A8-DD29-4B0F-914C-AE02077B26FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315CA9A8-DD29-4B0F-914C-AE02077B26FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971FE5F6-DCC9-4D51-928A-85E0C7D345FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971FE5F6-DCC9-4D51-928A-85E0C7D345FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971FE5F6-DCC9-4D51-928A-85E0C7D345FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971FE5F6-DCC9-4D51-928A-85E0C7D345FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
