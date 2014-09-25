@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 
 namespace TestFramwork
@@ -6,7 +7,7 @@ namespace TestFramwork
     public static class Browser
     {
 
-        static IWebDriver webDriver = new FirefoxDriver();
+        static IWebDriver webDriver = new ChromeDriver();
 
         public static string Title
         {
